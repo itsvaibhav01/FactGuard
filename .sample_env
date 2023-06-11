@@ -1,0 +1,6 @@
+ULTRA_API_URL=https://api.ultramsg.com/{instance ID}/
+TOKEN={your ultramsg token}
+TEXT_API_URL={inferance api for text model}
+IMAGE_API_URL={inferance api for image model}
+VIDEO_API_URL={inferance api for video model}
+BEARER={ultramsg bearer token}
