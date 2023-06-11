@@ -1,0 +1,24 @@
+# .gitignore
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore .env files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore the built virtual environment
+venv/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore files built for distribution
+*.egg-info/
+dist/
+build/
+*.egg
+
