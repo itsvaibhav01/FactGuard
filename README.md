@@ -1,5 +1,11 @@
 # FactGuard: An AI-Powered Reality Check for Social Media
 
+<!-- [![project image](./img/cover.png)](https://www.youtube.com/watch?v=3qsbb-eel9E) -->
+
+<div align="center">
+    [![project image](./img/cover.png)](https://www.youtube.com/watch?v=3qsbb-eel9E)
+</div>
+
 FactGuard is a cutting-edge AI solution designed to identify and expose fake news, deep fake videos, and AI-generated content on various social media platforms. It aims to serve as a reliable gatekeeper, protecting social media users from misleading and deceptive content.
 
 ## Features
